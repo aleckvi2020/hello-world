@@ -1,10 +1,6 @@
 # hello-world
 
-I am a Colombian-Canadian blockchain developer, currently working remotely as a part-time independent contractor. I also work as a co-founder at Defiteck.
+I work part-time as a blockchain developer and growth hacking for DeFi projects at Defiteck LATAM.
 
-My background is in software QA, sales, business development, and growth hacking/marketing automation.
-
-Best,
-
-Aleck Vi</br>
-av@defiteck.com
+Best,</br>
+Aleck V
